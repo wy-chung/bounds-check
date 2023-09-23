@@ -1,6 +1,6 @@
 # Using capability to implement memory bounds checking
 
-You can see the video of this presentation on [YouTube](https://www.youtube.com/watch?v=koyHlp__hGo&list=PL5d-EWnuoeCpW6n0K4Gdjk0pp5TSS0RKv&index=1&t=1s&ab_channel=wy-chung).
+You can see the video of this presentation on [YouTube](https://www.youtube.com/watch?v=y63Ssb-rXZg&list=PL5d-EWnuoeCpW6n0K4Gdjk0pp5TSS0RKv&index=1&ab_channel=wy-chung).
 
 Generally speaking there are two ways to do memory bounds checking, the object-based approach and the pointer-based approach. 
 Each has its advantages and disadvantages. In this article I propose a capability-based approach to do memory bounds checking.
