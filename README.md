@@ -1,3 +1,4 @@
+For latest update, please check [Capability-based memory bounds checking](https://medium.com/@wy.chung/capability-based-memory-bounds-checking-98dd9df6e8d4), November 2025.
 # Using capability to implement memory bounds checking
 Wuyang Chung, wy-chung@outlook.com
 
